@@ -1,3 +1,6 @@
 manzana
 banana
 kiwi
+papa
+brocoli
+pera
