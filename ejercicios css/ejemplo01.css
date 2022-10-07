@@ -13,12 +13,9 @@ h2{
     width: 200px;
     height: 150px;
     background-color: green;
-    box-shadow: 30px 23px 41px 35px rgba(0,0,0,1);
--webkit-box-shadow: 30px 23px 41px 35px rgba(0,0,0,1);
--moz-box-shadow: 30px 23px 41px 35px rgba(0,0,0,1);
-border-radius: 134px 134px 134px 134px;
--webkit-border-radius: 134px 134px 134px 134px;
--moz-border-radius: 134px 134px 134px 134px;
+    box-shadow: 92px 91px 12px 9px rgba(97,42,42,1);
+-webkit-box-shadow: 92px 91px 12px 9px rgba(97,42,42,1);
+-moz-box-shadow: 92px 91px 12px 9px rgba(97,42,42,1);
 
 }
 .destacados{
