@@ -1,0 +1,16 @@
+h1{
+color: blue;
+text-shadow: 23px 5px 5px rgba(75,137,200,0.76);
+}
+p{
+font-size: 22px;
+font-weight: bold;
+}
+img{
+    border-radius: 196px 196px 196px 196px;
+    -webkit-border-radius: 196px 196px 196px 196px;
+    -moz-border-radius: 196px 196px 196px 196px;
+}
+.destacados{
+    color: blue;
+}
